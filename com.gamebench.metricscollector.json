@@ -1,0 +1,13 @@
+{
+	"package": "com.gamebench.metricscollector",
+	"recommended": false,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 gamebench 文件夹，无法被重定向",
+		"zh": "生成 gamebench 資料夾，無法被重定向",
+		"en": "Creates gamebench folder which is not redirectable"
+	},
+	"authors":[
+		"a4840639"
+	],
+}

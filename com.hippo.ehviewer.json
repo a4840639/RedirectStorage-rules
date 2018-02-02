@@ -1,7 +1,16 @@
 {
 	"package": "com.hippo.ehviewer",
-	"recommended": false,
-	"authors": ["FoobarRogers"],
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 EhViewer 文件夹",
+		"zh": "生成 EhViewer 資料夾",
+		"en": "Creates EhViewer folder"
+	},
+	"authors":[
+		"FoobarRogers",
+		"a4840639"
+	],
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": false,

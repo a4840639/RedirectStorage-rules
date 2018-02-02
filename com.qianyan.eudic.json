@@ -1,0 +1,13 @@
+{
+	"package": "com.qianyan.eudic",
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 eudb_en 文件夹",
+		"zh": "生成 eudb_en 資料夾",
+		"en": "Creates eudb_en folder"
+	},
+	"authors":[
+		"a4840639"
+	],
+}

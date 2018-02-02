@@ -1,0 +1,19 @@
+{
+	"package": "com.sxy.ui",
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成复数文件夹",
+		"zh": "生成复数資料夾",
+		"en": "Creates multiple folders"
+	},
+	"authors":[
+		"a4840639"
+	],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "Welike",
+		"target": "Pictures/Welike"
+	}]
+}

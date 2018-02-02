@@ -1,0 +1,14 @@
+{
+	"package": "com.extreamsd.usbaudioplayerpro",
+	"recommended": false,
+	"need_appops": true,
+	"feature_affected": true,
+	"reason": {
+		"zh_CN": "生成包含日志文件的 UAPP 文件夹。 重定向会影响本地音乐播放，禁止写入不影响使用",
+		"zh": "生成包含記錄檔檔案的 UAPP 資料夾。 重定向會影響本地音樂回放，禁止寫入不影響使用",
+		"en": "Creates UAPP folder which contains logging. redirection breaks local music playback, but disabling writing has little side effect"
+	},
+	"authors":[
+		"a4840639"
+	],
+}

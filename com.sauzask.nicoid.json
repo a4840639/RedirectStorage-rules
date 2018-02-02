@@ -1,0 +1,13 @@
+{
+	"package": "com.sauzask.nicoid",
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 nicoid 文件夹",
+		"zh": "生成 nicoid 資料夾",
+		"en": "Creates nicoid folder"
+	},
+	"authors":[
+		"a4840639"
+	],
+}

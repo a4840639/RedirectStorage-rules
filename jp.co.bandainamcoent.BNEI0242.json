@@ -1,0 +1,13 @@
+{
+	"package": "jp.co.bandainamcoent.BNEI0242",
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 jp.co.bandainamcoent.BNEI0242 文件夹",
+		"zh": "生成 jp.co.bandainamcoent.BNEI0242 資料夾",
+		"en": "Creates jp.co.bandainamcoent.BNEI0242 folder"
+	},
+	"authors":[
+		"a4840639"
+	],
+}

@@ -1,0 +1,11 @@
+{
+	"package": "com.bubblesoft.android.bubbleupnp",
+	"recommended": true,
+	"feature_affected": true,
+	"reason": {
+		"zh_CN": "生成 BubbleUPnp 文件夹, 因使用系统媒体库，多数功能使用仍可正常使用",
+		"zh": "生成 BubbleUPnp 資料夾, 因使用系統媒體庫，多數功能使用仍可正常使",
+		"en": "Creates BubbleUPnp folder, most of functionalities are still working thanks to the implementation"
+	},
+	"authors": ["a4840639"],
+}

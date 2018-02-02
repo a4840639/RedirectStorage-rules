@@ -1,0 +1,13 @@
+{
+	"package": "jp.colopl.wcat",
+	"recommended": true,
+	"feature_affected": false,
+	"reason": {
+		"zh_CN": "生成 jp.colopl.wcat 文件夹",
+		"zh": "生成 jp.colopl.wcat 資料夾",
+		"en": "Creates jp.colopl.wcat folder"
+	},
+	"authors":[
+		"a4840639"
+	],
+}
